@@ -39,7 +39,7 @@ _G["Fumo Blox Fruit - HoHo Hub Kaitun V3"] = {
             Enabled = true, --true/false enabled is needable if u want Soul Guitar
             FarmUntil = 250, -- 250 = soul guitar price
         },
-        ["Dark Beard Drop Farm"] = false, -- enabled this if u want 100% get Soul Guitar
+        ["Dark Beard Drop Farm"] = true, -- enabled this if u want 100% get Soul Guitar
         ["Full 3 Leg Sword and True Triple Katana"] = false, -- enabled this if u want 100% get true triple katana
     },
     HopServerFarm = true, -- true/false why not?
