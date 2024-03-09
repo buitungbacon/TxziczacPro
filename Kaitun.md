@@ -43,7 +43,7 @@ _G["Fumo Blox Fruit - HoHo Hub Kaitun V3"] = {
         ["Full 3 Leg Sword and True Triple Katana"] = false, -- enabled this if u want 100% get true triple katana
     },
     HopServerFarm = true, -- true/false why not?
-    StopRaidWhenGetEnoughFrag = 10000, --10k is enough so we will farm faster
+    StopRaidWhenGetEnoughFrag = 20000, --10k is enough so we will farm faster
     PVP_FARM = false, -- kill player grind exp fast
     ShowAccountInfo = false, -- an ui with your account information
 }
