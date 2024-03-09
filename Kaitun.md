@@ -30,7 +30,7 @@ _G["Fumo Blox Fruit - HoHo Hub Kaitun V3"] = {
     },
     AutoItems = {
         ["Second Sea"] = {"Kabucha","Rengoku","Acidum Rifle","Dark Coat"},
-        ["Third Sea"] = {"Cursed Dual Katana","Soul Guitar","Hallow Scythe","Tushita","Yama","AutoElite","AutoRipIndra"},
+        ["Third Sea"] = {"Cursed Dual Katana","Soul Guitar","Hallow Scythe","Tushita","Yama","AutoElite","AutoRipIndra","AutoDoughKing"},
         --remove rainbow haki or any thing if u dont want
     },
     Deep_Config = {
