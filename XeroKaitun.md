@@ -33,3 +33,4 @@ getgenv().ConfigSetting = {
 }
 
 loadstring(game:HttpGet("https://xerohub.click/script/kaitun.lua"))()
+getgenv().Auto_Saber = true
